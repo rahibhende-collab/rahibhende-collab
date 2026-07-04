@@ -106,7 +106,7 @@ Key Features:
 
 ✅ Secure database operations
 
-Tech Stack: PHP • MySQL • Bootstrap • HTML • CSS • JavaScript
+Tech Stack: PHP • Mysql • HTML • CSS • Javascript
 ---------------------------------------------------------------------------------------------------
 
 🛠 Tech Stack
