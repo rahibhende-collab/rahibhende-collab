@@ -143,6 +143,16 @@ Tech Stack: PHP • MySql • HTML • CSS • Javascript
 
 ---------------------------------------------------------------------------------------------------
 
-📫 Let's Connect
+📫 Let's Connect with Me!
 
 I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
+
+---------------------------------------------------------------------------------------------------
+
+⚡ Fun Fact:
+I enjoy transforming ideas into real-world applications and constantly exploring emerging technologies.
+
+---------------------------------------------------------------------------------------------------
+
+
+
