@@ -42,7 +42,7 @@ I'm an MCA student at P.R. Pote Patil College of Engineering & Management, Amrav
 ---------------------------------------------------------------------------------------------------
 * 💬  Ask me about I enjoy exploring new technologies, building meaningful projects, and continuously challenging myself to learn and grow as a developer.
 ---------------------------------------------------------------------------------------------------
-## 🌐 Portfolio
+🌐 Portfolio
 
 Coming Soon...
 ---------------------------------------------------------------------------------------------------
