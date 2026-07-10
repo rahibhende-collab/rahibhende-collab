@@ -30,7 +30,7 @@ I'm an MCA student at P.R. Pote Patil College of Engineering & Management, Amrav
 - [FuturePath AI – AI-powered Career Guidance Platform](http://github.com/rahibhende-collab/FuturePath-AI)
 - Expanding my portfolio with impactful real-world projects
  ---- --------------------------------------------------------------------------------------------------------
-* 🧠 I'm currently learning: - 
+
 🌱 I'm currently learning:
 - Data Science
 - Machine Learning
