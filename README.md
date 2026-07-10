@@ -9,7 +9,7 @@ MCA Student | Aspiring Software Developer | AI Enthusiast | Open to Freelance & 
 
 I'm an MCA student at P.R. Pote Patil College of Engineering & Management, Amravati. I am passionate about Software Development, Artificial Intelligence, and building real-world applications. I enjoy solving problems, exploring modern technologies, and continuously improving my skills through hands-on projects.
 
-🎓 Currently pursuing MCA at PR Pote Patil College of Engineering, Amravati.
+🎓 Currently pursuing MCA at P.R. Pote Patil College of Engineering & Management, Amravati.
 
 💡 Passionate about transforming ideas into practical software solutions.
 
