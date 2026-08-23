@@ -19,14 +19,13 @@ I'm an MCA student at P.R.Pote Patil College of Engineering & Management, Amrava
 
 🤝 Always excited to collaborate on innovative and impactful projects.
 
-🎯 Aspiring Software Engineer committed to building scalable and meaningful applications
-
-
-
+🎯 Aspiring Software Engineer committed to building scalable and meaningful applications.
 
 ---------------------------------------------------------------------------------------------------
 
  🚀 I'm currently working on:
+
+- Vachetram(Sign language platform) 
  
 - [FuturePath AI – AI-powered Career Guidance Platform](http://github.com/rahibhende-collab/FuturePath-AI)
   
