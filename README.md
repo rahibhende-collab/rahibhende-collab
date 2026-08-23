@@ -25,7 +25,7 @@ I'm an MCA student at P.R.Pote Patil College of Engineering & Management, Amrava
 
  🚀 I'm currently working on:
 
-- Vachetram(Sign language platform) 
+- Vachetram – AI-Powered Sign Language Platform()
  
 - [FuturePath AI – AI-powered Career Guidance Platform](http://github.com/rahibhende-collab/FuturePath-AI)
   
