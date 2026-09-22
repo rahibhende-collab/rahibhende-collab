@@ -32,7 +32,7 @@ I'm an MCA student at P.R.Pote Patil College of Engineering & Management, Amrava
 - Expanding my portfolio with impactful real-world projects
  ---- --------------------------------------------------------------------------------------------------------
 
-🌱 I'm currently learning:
+🌱 I'm currently learning:-
 - Data Science
 - Machine Learning
 - Generative AI & LLMs
@@ -48,7 +48,7 @@ I'm an MCA student at P.R.Pote Patil College of Engineering & Management, Amrava
 Coming Soon.....
 =============================================================================================================
 
-🎯 Featured Projects
+🎯 Featured Projects:-
 ---------------------------------------------------------------------------------------------------
 
 🤖 FuturePath AI
